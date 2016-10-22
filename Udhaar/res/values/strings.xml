@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Udhaar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_payments">Payments</string>
+    <string name="Payment">Payments</string>
+    <string name="Debts">Debts</string>
+    <string name="Summary">Summary</string>
+    <string name="title_activity_debts">Debts</string>
+    <string name="title_activity_summarys">Summarys</string>
+    <string name="Pluss">+</string>
+    <string name="title_activity_payfrag">Payfrag</string><string name="tvlabel">Name:</string>
+    
+
+</resources>
